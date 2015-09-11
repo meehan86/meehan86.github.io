@@ -1,0 +1,24 @@
+.header {
+	text-align: center;
+}
+.education {
+	text-align: left;
+}
+.footer h4 {
+	text-align: center;
+}
+.work-history {
+	text-align: left;
+}
+.education h2 {
+	text-align: center;
+}
+.Skills h2 {
+	text-align: center;
+}
+.work-history h2 {
+	text-align: center;
+}
+.footer h4 {
+	margin-top: 25px;
+}
